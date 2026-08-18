@@ -20,7 +20,7 @@
 <h3 align="center">About</h3>
 
 <p align="center">
-  I am an Informatics Engineering graduate with a <strong>3.82/4.00 GPA</strong>, focused on full-stack web development.
+  I am an Informatics Engineering graduate, focused on full-stack web development.
   I design and build secure, practical, and scalable web solutions tailored to business needs.<br/>
   My experience includes developing custom <strong>ERP and inventory management systems</strong> using <strong>Laravel Filament</strong> and <strong>React</strong>.
 </p>
@@ -59,7 +59,7 @@
 <p align="center">
   <strong>Food Web App</strong><br/>
   Food e-commerce platform with integrated payment gateway and responsive UI.<br/>
-  <em>Laravel &nbsp;·&nbsp; Livewire &nbsp;·&nbsp; Midtrans Payment Gateway &nbsp;·&nbsp; <a href="[Repository]">Repository</a></em>
+  <em>Laravel &nbsp;·&nbsp; Livewire &nbsp;·&nbsp; Midtrans Payment Gateway &nbsp;·&nbsp;</em>
 </p>
 
 <br/>
