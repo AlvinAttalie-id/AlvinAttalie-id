@@ -91,31 +91,29 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AlvinAttalie-id&hide_border=true&background=00000000&ring=7D9CB8&fire=4A6580&currStreakLabel=7D9CB8&sidenums=8A99A8&sideLabels=8A99A8&currStreakNum=8A99A8&dates=6B7885&stroke=8A99A8"
+    src="https://streak-stats.demolab.com?user=AlvinAttalie-id&theme=default&hide_border=true&background=00000000&ring=7D9CB8&fire=4A6580&currStreakLabel=7D9CB8&sideNums=8A99A8&sideLabels=8A99A8&currStreakNum=8A99A8&dates=6B7885&stroke=8A99A8"
     alt="GitHub Streak Stats"
   />
 </p>
 
 <br/>
 
-<h3 align="center">Activity</h3>
+## Activity
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AlvinAttalie-id/AlvinAttalie-id/output/pacman-contribution-graph-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AlvinAttalie-id/AlvinAttalie-id/output/pacman-contribution-graph.svg"
-    >
-    <img
-      alt="Pac-Man Contribution Graph"
-      src="https://raw.githubusercontent.com/AlvinAttalie-id/AlvinAttalie-id/output/pacman-contribution-graph.svg"
-    >
-  </picture>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlvinAttalie-id/AlvinAttalie-id/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AlvinAttalie-id/AlvinAttalie-id/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/AlvinAttalie-id/AlvinAttalie-id/output/pacman-contribution-graph.svg"
+  >
+</picture>
 
 <br/>
 
