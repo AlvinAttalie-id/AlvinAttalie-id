@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4057,50:4A6580,100:8FA8BF&height=180&section=header&text=Alvin&fontSize=70&fontColor=E8EEF4&fontAlignY=34&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4057,50:4A6580,100:8FA8BF&height=180&section=header&text=AlvinAttalie-id&fontSize=70&fontColor=E8EEF4&fontAlignY=34&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="mailto:alvin.attalie31@gmail.com"><img src="https://img.shields.io/badge/Email-2E4057?style=flat-square&logo=gmail&logoColor=E8EEF4" /></a>
   <a href="https://www.linkedin.com/in/alvin-zacky-attalie"><img src="https://img.shields.io/badge/LinkedIn-4A6580?style=flat-square&logo=linkedin&logoColor=E8EEF4" /></a>
   <a href="https://alvin-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7D9CB8?style=flat-square&logo=vercel&logoColor=E8EEF4" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-8FA8BF?style=flat-square&logo=github&logoColor=2E4057" /></a>
+  <a href="https://github.com/AlvinAttalie-id"><img src="https://img.shields.io/badge/GitHub-8FA8BF?style=flat-square&logo=github&logoColor=2E4057" /></a>
 </p>
 
 <br/>
@@ -90,12 +90,12 @@
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8A99A8&icon_color=7D9CB8&title_color=7D9CB8" />
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=7D9CB8&fire=4A6580&currStreakLabel=7D9CB8&sideNums=8A99A8&sideLabels=8A99A8&currStreakNum=8A99A8&dates=6B7885&stroke=8A99A8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlvinAttalie-id&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8A99A8&icon_color=7D9CB8&title_color=7D9CB8" />
+  <img height="165" src="https://streak-stats.demolab.com?user=AlvinAttalie-id&hide_border=true&background=00000000&ring=7D9CB8&fire=4A6580&currStreakLabel=7D9CB8&sideNums=8A99A8&sideLabels=8A99A8&currStreakNum=8A99A8&dates=6B7885&stroke=8A99A8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&text_color=8A99A8&title_color=7D9CB8&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinAttalie-id&layout=compact&hide_border=true&bg_color=00000000&text_color=8A99A8&title_color=7D9CB8&langs_count=6" />
 </p>
 
 <br/>
