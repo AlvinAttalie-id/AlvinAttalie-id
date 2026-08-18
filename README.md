@@ -98,6 +98,27 @@
 
 <br/>
 
+<h3 align="center">Activity</h3>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AlvinAttalie-id/AlvinAttalie-id/output/pacman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AlvinAttalie-id/AlvinAttalie-id/output/pacman-contribution-graph.svg"
+    >
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/AlvinAttalie-id/AlvinAttalie-id/output/pacman-contribution-graph.svg"
+    >
+  </picture>
+</p>
+
+<br/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FA8BF,50:4A6580,100:2E4057&height=120&section=footer" />
 </p>
