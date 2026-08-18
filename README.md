@@ -9,18 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:alvin.attalie31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-2E4057?style=flat-square&logo=gmail&logoColor=E8EEF4" />
-  </a>
-  <a href="https://www.linkedin.com/in/alvin-zacky-attalie" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4A6580?style=flat-square&logo=linkedin&logoColor=E8EEF4" />
-  </a>
-  <a href="https://alvin-portfolio-eight.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7D9CB8?style=flat-square&logo=vercel&logoColor=E8EEF4" />
-  </a>
-  <a href="https://github.com/AlvinAttalie-id" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-8FA8BF?style=flat-square&logo=github&logoColor=2E4057" />
-  </a>
+  <a href="mailto:alvin.attalie31@gmail.com"><img src="https://img.shields.io/badge/Email-2E4057?style=flat-square&logo=gmail&logoColor=E8EEF4" /></a>
+  <a href="https://www.linkedin.com/in/alvin-zacky-attalie"><img src="https://img.shields.io/badge/LinkedIn-4A6580?style=flat-square&logo=linkedin&logoColor=E8EEF4" /></a>
+  <a href="https://alvin-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7D9CB8?style=flat-square&logo=vercel&logoColor=E8EEF4" /></a>
+  <a href="https://github.com/AlvinAttalie-id"><img src="https://img.shields.io/badge/GitHub-8FA8BF?style=flat-square&logo=github&logoColor=2E4057" /></a>
 </p>
 
 <br/>
