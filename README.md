@@ -90,12 +90,10 @@
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlvinAttalie-id&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8A99A8&icon_color=7D9CB8&title_color=7D9CB8" />
-  <img height="165" src="https://streak-stats.demolab.com?user=AlvinAttalie-id&hide_border=true&background=00000000&ring=7D9CB8&fire=4A6580&currStreakLabel=7D9CB8&sideNums=8A99A8&sideLabels=8A99A8&currStreakNum=8A99A8&dates=6B7885&stroke=8A99A8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinAttalie-id&layout=compact&hide_border=true&bg_color=00000000&text_color=8A99A8&title_color=7D9CB8&langs_count=6" />
+  <img
+    src="https://streak-stats.demolab.com?user=AlvinAttalie-id&hide_border=true&background=00000000&ring=7D9CB8&fire=4A6580&currStreakLabel=7D9CB8&sidenums=8A99A8&sideLabels=8A99A8&currStreakNum=8A99A8&dates=6B7885&stroke=8A99A8"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 <br/>
